@@ -1,0 +1,4 @@
+ 1 eggs 499 5
+ 2 Apples 299 10
+ 3 Momos 40 1
+ 4 kaka 56 1
